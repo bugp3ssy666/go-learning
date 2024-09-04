@@ -1,0 +1,3 @@
+1. when printing float64, if the accurate index is way bigger than the accuracy of float type itself, what is the extra part printed out on console? ![2bc8920eb2aea4e4eca560bfc7c689d6.png](../../_resources/2bc8920eb2aea4e4eca560bfc7c689d6.png)
+2. maybe the same as previous one, why calculations between float nums are inaccurate? ![00f555a1e93852b86dfe469faa1a6cff.png](../../_resources/00f555a1e93852b86dfe469faa1a6cff.png)
+3. 
